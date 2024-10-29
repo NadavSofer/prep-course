@@ -5,3 +5,7 @@ git add . - will stage any files (will tell git that we want to update any file 
 git commit -m "save name"- will tell git that we are sur about our changes and want to commit. -m will set the save name to whatever is in the "".
 
 git push - will push any files and upload them to the website
+
+absolute path - C:\Users\nadav\OneDrive\שולחן העבודה\Projects\course prep\week1\git.txt
+
+relative path - week1\git.txt
