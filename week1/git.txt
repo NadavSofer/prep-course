@@ -1,0 +1,7 @@
+git init - will initialize the repository
+
+git add . - will stage any files (will tell git that we want to update any file that has changes)
+
+git commit -m "save name"- will tell git that we are sur about our changes and want to commit. -m will set the save name to whatever is in the "".
+
+git push - will push any files and upload them to the website
